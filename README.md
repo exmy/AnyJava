@@ -1,2 +1,2 @@
-# AnyJava
-some reading notes and practice code about java
+# CSNotes
+some reading notes  about CS
