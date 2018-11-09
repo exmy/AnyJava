@@ -2,7 +2,7 @@
 
 ###### 运行时数据区域
 
-![运行时数据区域](..\pics\JVM运行时数据区域.png)
+![运行时数据区域](https://github.com/exmy/CSNotes/raw/master/pics/JVM%E8%BF%90%E8%A1%8C%E6%97%B6%E6%95%B0%E6%8D%AE%E5%8C%BA%E5%9F%9F.png)
 
 ​	方法区和堆由所有线程共享
 
