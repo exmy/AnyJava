@@ -139,6 +139,20 @@ public final class Class<T> implements java.io.Serializable,
   public boolean isInstance(Object obj)
   ```
 
+##### 5. 反射
+
+反射机制
+
+* 在运行时动态获取类的信息以及动态调用对象的方法的功能
+* 对于任意一个类，都能够知道这个类的所有属性和方法
+* 对于任意一个对象，都能够调用它的任意一个方法和属性
+* 由`Class`类和`java.lang.reflec`类库提供对反射的支持
+
+反射机制主要有3个类：
+
+* `Constructor`类表示Class 对象所表示的类的构造方法，利用它可以在运行时动态创建对象
+* `Field`类表示Class对象所表示的类的成员变量，通过它可以在运行时动态修改成员变量的属性值(包含private)
+* `Method`类表示Class对象所表示的类的成员方法，通过它可以动态调用对象的方法(包含private)
 
 ##### 参考资料
 
