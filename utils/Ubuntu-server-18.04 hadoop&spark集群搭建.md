@@ -362,6 +362,7 @@
       ```
 
       启动hbase：`start-hbase.sh`
+      查看web ui: `http://master:16010`
 
    5. 安装scala
 
