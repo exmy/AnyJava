@@ -2,6 +2,8 @@
 
 基于java 1.8
 
+[TOC]
+
 ##### 0. HashMap
 
 ```java
